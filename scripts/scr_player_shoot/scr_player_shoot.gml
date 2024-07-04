@@ -1,0 +1,5 @@
+function scr_Player_shoot(){
+scr_shoot_bullet_IMPORTANT(0,obj_crosshair,obj_pellet,obj_player.pellets_multiplier,obj_player.pellet_spread,obj_player.pellet_accuracy,obj_player.pellet_speed,obj_player.pellet_distance,0,0,88,false)
+}
+
+///THISISNOTATALLHOWYOUSHOULDDOTHISTHISISNOTATALLHOWYOUSHOULDDOTHISTHISISNOTATALLHOWYOUSHOULDDOTHISTHISISNOTATALLHOWYOUSHOULDDOTHISTHISISNOTATALLHOWYOUSHOULDDOTHISTHISISNOTATALLHOWYOUSHOULDDOTHISTHISISNOTATALLHOWYOUSHOULDDOTHIS - dt
